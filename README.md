@@ -17,12 +17,5 @@
 | 03 | WAP to find roots of quadratic equations if roots are real. |
 | 04 | WAP to check whether entered character is vowel or consonant. |
 | 05 | WAP to find maximum of three numbers (nested if-else). |
-| 06 | WAP to calculate the salary of an employee based on following
-conditions (nested if-else):
-1. if degree = B.E. and experience < 5 years, salary=30000
-2. if degree = B.E. and experience >= 5 years,
-salary=40000 3. if degree = M.E. and experience <
-5 years, salary=50000
-4. if degree = M.E. and experience >= 5 years, salary= 60000 |
-| 07 | WAP to check whether entered input is character, digit or special
-symbol using ladder if-else. |
+| 06 | WAP to calculate the salary of an employee based on following conditions (nested if-else): 1. if degree = B.E. and experience < 5 years, salary=30000 2. if degree = B.E. and experience >= 5 years, salary=40000 3. if degree = M.E. and experience < 5 years, salary=50000 4. if degree = M.E. and experience >= 5 years, salary= 60000 |
+| 07 | WAP to check whether entered input is character, digit or special symbol using ladder if-else. |
