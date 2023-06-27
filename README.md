@@ -2,7 +2,7 @@
 
 | Sr No | Name of Experiment |
 |:------------:|:------------------:|
-| Practical Set 1                    |
+| | Practical Set - 1 | 
 | 01 | Find out Quadratic equation roots using C. |
 | 02 | Implementation of Bisection Method. |
 | 03 | Implementation of False Method |
