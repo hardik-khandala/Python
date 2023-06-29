@@ -2,7 +2,7 @@
 
 | Sr No | Name of Experiment |
 |:------------:|------------------|
-| |: `Practical Set - 1` :| 
+| |`Practical Set - 1`| 
 | 01 | Write a Python program to print “Hello World”. |
 | 02 | Write a Python program to swap two variables using third variable. |
 | 03 | Write a Python program to swap two variables without third variable. |
@@ -11,7 +11,7 @@
 | 06 | Write a Python program to find sum of n natural numbers without loop. |
 | 07 | Check various arithmetic operators of Python. |
 | 08 | Write a Python program to check output of modulo operator. |
-| |:` Practical Set - 2`: | 
+| |` Practical Set - 2`| 
 | 01 | WAP to check whether entered number is even or odd. |
 | 02 | WAP to find whether entered number is positive, negative or zero. |
 | 03 | WAP to find roots of quadratic equations if roots are real. |
