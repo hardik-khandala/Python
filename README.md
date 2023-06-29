@@ -2,7 +2,7 @@
 
 | Sr No | Name of Experiment |
 |:------------:|------------------|
-| | Practical Set - 1 | 
+| | `Practical Set - 1` | 
 | 01 | Write a Python program to print “Hello World”. |
 | 02 | Write a Python program to swap two variables using third variable. |
 | 03 | Write a Python program to swap two variables without third variable. |
