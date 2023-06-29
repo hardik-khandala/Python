@@ -3,7 +3,7 @@
 | Sr No | Name of Experiment |
 |:------------:|------------------|
 | |`Practical Set - 1`| 
-| 01 | Write a Python program to print “Hello World”. |
+| 01 | Write a Python program to<br> print “Hello World”. |
 | 02 | Write a Python program to swap two variables using third variable. |
 | 03 | Write a Python program to swap two variables without third variable. |
 | 04 | Write a Python program to find square root of positive number. |
