@@ -29,4 +29,4 @@
 | 07 | WAP to print all even numbers between 1 to n except the numbers divisible by 6. |
 | 09 | Write a python program to check whether given number is Armstrong or not. |
 | 10 | Write a python program to check whether given number is Palindrome or not. |
-| 09 | WAP to print the following: <br> 1)          2) <br> 1          ***** <br> 12          **** <br> 123          *** |
+| 11 | WAP to print the following: |
