@@ -19,3 +19,14 @@
 | 05 | WAP to find maximum of three numbers (nested if-else). |
 | 06 | WAP to calculate the salary of an employee based on following conditions (nested if-else): (1) if degree = B.E. and experience < 5 years, salary=30000 (2) if degree = B.E. and experience >= 5 years, salary=40000 (3) if degree = M.E. and experience < 5 years, salary=50000 (4) if degree = M.E. and experience >= 5 years, salary= 60000 |
 | 07 | WAP to check whether entered input is character, digit or special symbol using ladder if-else. |
+| |`Practical Set - 3`| 
+| 01 | WAP to find sum of first N numbers. |
+| 02 | WAP to find sum of N scanned numbers. |
+| 03 | Write a Python program to find N!. |
+| 04 | Write a Python program to print Fibonacci series upto n terms. |
+| 05 | WAP to find the reverse of given numbers. |
+| 06 | WAP to check whether entered number is prime or not. |
+| 07 | WAP to print all even numbers between 1 to n except the numbers divisible by 6. |
+| 09 | Write a python program to check whether given number is Armstrong or not. |
+| 10 | Write a python program to check whether given number is Palindrome or not. |
+| 09 | WAP to print the following: <br> 1)          2) <br> 1          ***** <br> 12          **** <br> 123          *** |
