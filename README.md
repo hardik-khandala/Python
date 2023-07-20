@@ -30,3 +30,15 @@
 | 09 | Write a python program to check whether given number is Armstrong or not. |
 | 10 | Write a python program to check whether given number is Palindrome or not. |
 | 11 | WAP to print the following: |
+| |`Practical Set - 4`| 
+| 01 | Write a python program which covers all the methods (functions) of list. |
+| 02 | Write a Python program to append a list to the second list. |
+| 03 | Write a python program to check whether the given list is palindrome or not. |
+| 04 | Write a python program to store strings in list and then print them. |
+| 05 | Write a python program to print list of prime numbers upto N using loop and else clause. |
+| 06 | Write a python program to check whether the given list is palindrome or not. |
+| 07 | Write a Python program to multiply all the items in a list. |
+| 08 | Write a Python program to get the largest number from a list. |
+| 09 | Write a Python program to find the second smallest number in a list. |
+| 10 | Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings. |
+| 11 | Write a Python program to remove duplicates from a list. |
