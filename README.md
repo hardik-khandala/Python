@@ -42,3 +42,12 @@
 | 09 | Write a Python program to find the second smallest number in a list. |
 | 10 | Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings. |
 | 11 | Write a Python program to remove duplicates from a list. |
+| 12 | Write a Python program to find the list of words that are longer than n from a given string. |
+| 13 | Write a Python function that takes two lists and returns True if they have at least one common member. |
+| 14 | Write a Python program to print the numbers of a specified list after removing even numbers from it. |
+| 15 | Write a Python program to add two matrices. |
+| 16 | Write a Python program to transpose a given matrix. |
+| 17 | Flatten a nested list structure. <br> Example: if list1 = [1, [2, 3], [4, 5, [6, 7] ] ] then try to convert it in 1-dimensional [1, 2, 3, 4, 5, 6, 7] |
+| 18 | Write a Python program to split a list every Nth element. |
+| |`Practical Set - 5`| 
+
