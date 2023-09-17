@@ -54,16 +54,16 @@
 | 02 | Create two sets of integers and find their difference, intersection, union and symmetric difference. Also find subset and superset from these two. Apply methods as well as operators for all operations. |
 | 03 | Write a function called find_dups that takes a list of integers as its input argument and returns a set of those integers that occur two or more times in the list. |
 | 04 | The following company details are given for analysis: customer acc no, customer name, purchased product no, product category, unit price. Marketing is interested in understanding customer purchase patterns. Find the answers of following questions: <br> ● How many customers have purchased bread? <br> ● How many customers have purchased butter? <br> ● How many customers have purchased bread and butter? <br> ● Who has purchased bread but not butter? <br> ● Which customers have purchased bread, butter and milk? <br> ● Print the name of the most valuable customers who have purchased all three items. |
-| 05 |   |
-| 06 |   |
-| 07 |   |
-| 08 |   |
-| 09 |   |
-| 10 |   |
-| 11 |   |
-| 12 |   |
-| 13 |   |
-| 14 |   |
+| 05 | Write a program to create an empty tuple, tupple with single value, tuple with multiple values/collections and a tuple with different data types. |
+| 06 | Check all the methods of tuple. |
+| 07 | Write a program to find multiple items of a tuple. |
+| 08 | Write a Python script to add a key to a dictionary. |
+| 09 | Write a Python script to print a dictionary where the keys are numbers between 1 and 15 (both included) and the values are square of keys. |
+| 10 | Write a Python script to check if a given key already exists in a dictionary. |
+| 11 | Write a Python script to merge two Python dictionaries. |
+| 12 | Write a Python program to remove a key from a dictionary. |
+| 13 | Write a Python program to create a dictionary from two lists. |
+| 14 | Write a Python program to check if all dictionaries in a list are empty or not. |
 | |`Practical Set - 6`| 
 
 
