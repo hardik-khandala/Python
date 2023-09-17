@@ -65,27 +65,27 @@
 | 13 | Write a Python program to create a dictionary from two lists. |
 | 14 | Write a Python program to check if all dictionaries in a list are empty or not. |
 | |`Practical Set - 6`| 
-| 01 |  |
-| 02 |  |
-| 03 |  |
-| 04 |  |
-| 05 |  |
-| 06 |  |
+| 01 | Write a program to find the prime numbers in a specific range using filter. |
+| 02 | Write a python program to make sum of particular range using reduce. |
+| 03 | Write a python program to find maximum from a list using reduce. |
+| 04 | Write a python program to find Armstrong number in a specific range using map. |
+| 05 | Write a python program to apply two functions (square and cube) simultaneously on a specific range using map. |
+| 06 | Write python programs using (i) map/filter and function (ii) map/filter and lambda (iii) list comprehension <br> ● Create a list to store the cube of all the elements in a given list. <br> ● Create a list of equivalent Celsius degree from Fahrenheit. <br> ● Create a list that stores only positive numbers from given list. <br>● Create a list that stores only alphabets from given list.|
 | |`Practical Set - 7`| 
-| 01 |  |
-| 02 |  |
-| 03 |  |
-| 04 |  |
-| 05 |  |
+| 01 | Write a python program to read the text file using read (), readlines() and readline() methods. |
+| 02 | Write a python program to read a file containing pairs of numbers in a file. Create a file that contains the pairs of numbers as well as addition and multiplication of the two numbers in the same line. |
+| 03 | A text file contains a header line, few comments lines followed by actual lines of data. Write a python program to create a function skip_header() that skips the header and all the comment lines and prints only actual lines of data. |
+| 04 | Write a python program to create a function that returns smallest value from the given text file. |
+| 05 | Write the program-4 for a text file with missing values (missing values are represented as hyphen (-)). |
 | |`Practical Set - 8`|
-| 01 |  |
-| 02 |  |
+| 01 | Write a Python program which will throw exception if the value entered by user is less than zero. |
+| 02 | Write a python program to demonstrate use of finally and else keywords. |
 | |`Practical Set - 9`|
-| 01 |  |
-| 02 |  |
+| 01 | Write a Python program to create class KSV with attributes like class variable cnt, instance variables x and y, instance methods get_value and print_value. |
+| 02 | Write a python program to demonstrate overloading of add (+) operator. |
 | |`Practical Set - 10`|
-| 01 |  |
-| 02 |  |
+| 01 | Write a Python program to search a specific value from a given list of values using binary search method. |
+| 02 | Write a python program to sort the elements of list values using selection sort. |
 
 
 
