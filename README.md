@@ -65,5 +65,27 @@
 | 13 | Write a Python program to create a dictionary from two lists. |
 | 14 | Write a Python program to check if all dictionaries in a list are empty or not. |
 | |`Practical Set - 6`| 
+| 01 |  |
+| 02 |  |
+| 03 |  |
+| 04 |  |
+| 05 |  |
+| 06 |  |
+| |`Practical Set - 7`| 
+| 01 |  |
+| 02 |  |
+| 03 |  |
+| 04 |  |
+| 05 |  |
+| |`Practical Set - 8`|
+| 01 |  |
+| 02 |  |
+| |`Practical Set - 9`|
+| 01 |  |
+| 02 |  |
+| |`Practical Set - 10`|
+| 01 |  |
+| 02 |  |
+
 
 
