@@ -50,7 +50,7 @@
 | 17 | Flatten a nested list structure. <br> Example: if list1 = [1, [2, 3], [4, 5, [6, 7] ] ] then try to convert it in 1-dimensional [1, 2, 3, 4, 5, 6, 7] |
 | 18 | Write a Python program to split a list every Nth element. |
 | |`Practical Set - 5`| 
-| 01 |   |
+| 01 | Create a set of integers as follows: <br> ● Initialize the set directly <br> ● initialize empty set and then add values <br> ● from a list <br> ● from another set <br> ● using range <br> ● update an existing set using another set <br> ● print the elements of set iteratively <br> ● check the functionality of remove and discard |
 | 02 |   |
 | 03 |   |
 | 04 |   |
