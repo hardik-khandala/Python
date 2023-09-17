@@ -51,9 +51,10 @@
 | 18 | Write a Python program to split a list every Nth element. |
 | |`Practical Set - 5`| 
 | 01 | Create a set of integers as follows: <br> ● Initialize the set directly <br> ● initialize empty set and then add values <br> ● from a list <br> ● from another set <br> ● using range <br> ● update an existing set using another set <br> ● print the elements of set iteratively <br> ● check the functionality of remove and discard |
-| 02 |   |
-| 03 |   |
-| 04 |   |
+| 02 | Create two sets of integers and find their difference, intersection, union and symmetric difference. Also find subset and superset from these two. Apply methods as well as operators for all operations. |
+| 03 | Write a function called find_dups that takes a list of integers as its input argument and returns a set of those integers that occur two or more times in the list. |
+| 04 | The following company details are given for analysis: customer acc no, customer name, purchased product no, product category, unit price. Marketing is interested in understanding customer purchase patterns. Find the answers of following questions: <br> ● How many customers have purchased bread? <br> ● How many customers have purchased butter? <br> ● How many customers have purchased bread and butter? <br> ● Who has purchased bread but not butter? <br> ● Which customers have purchased bread, butter and milk? <br> ● Print the name of the most valuable customers who 
+have purchased all three items. |
 | 05 |   |
 | 06 |   |
 | 07 |   |
